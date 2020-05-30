@@ -7,7 +7,7 @@ This is the front page of my ideal **Wiki / Note Taking platform**. There might 
 * retrofit some existing program
 * implement in Svelte as bzWiki-sve
 * implement in Vue as bzWiki-vue
-* target spec in [bzWiki-spec](doc/bzWiki-spec), very likely with nodejs and a browser client
+* target spec in [bzWiki-spec](doc/bzWiki-spec.md), very likely with nodejs and a browser client
 
 # Searching for an ideal Wiki / Note Taking platform
 
